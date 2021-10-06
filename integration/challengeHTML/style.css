@@ -1,0 +1,98 @@
+.d-flex {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    image-orientation: flip;
+}
+.navigation li {
+    display: inline-block;
+}
+
+h2 {
+    text-align: center;
+    color: indianred;
+}
+.flexarticles {
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: rgb(135, 216, 222);
+    border: 1px solid red;
+}
+.styleheader {
+    background-color: rgb(243, 255, 80);
+    text-align: center;
+    border: 1px solid black;
+}
+#flexdate {
+    display: flex;
+    flex-flow: row;
+}
+.flexinfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.info-user {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.userphone {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.button1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.button2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+#color {
+    background-color: black;
+    color: blanchedalmond;
+}
+#comcolor {
+    background-color: black;
+    color: blanchedalmond;
+
+}
+#articles {
+    text-align: center;
+    image-orientation: flip;
+}
+.envoicolor {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: end;
+}
+.projects {
+    border: 1px solid black;
+}
+.études {
+    border: 1px solid black;
+}
+#Contacts {
+    border: 1px solid black;
+    background-color: burlywood;
+
+}
+.articles {
+    border: 1px solid black;
+}
+.buttonposition {
+    text-align: right;
+}
+
+
+
+
